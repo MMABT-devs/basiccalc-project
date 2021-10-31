@@ -1,0 +1,38 @@
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.exe
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.deps.json
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.runtimeconfig.json
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.dll
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\ref\MMABT MTstore BasicCalc.dll
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.pdb
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT_MTstore_BasicCalc.BasicCalc.resources
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT_MTstore_BasicCalc.Properties.Resources.resources
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.dll
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\ref\MMABT MTstore BasicCalc.dll
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.pdb
+C:\Users\ASUS\source\repos\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.genruntimeconfig.cache
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.exe
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.deps.json
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.runtimeconfig.json
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.runtimeconfig.dev.json
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.dll
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\ref\MMABT MTstore BasicCalc.dll
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\bin\Debug\net5.0-windows\MMABT MTstore BasicCalc.pdb
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.csproj.AssemblyReference.cache
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT_MTstore_BasicCalc.BasicCalc.resources
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT_MTstore_BasicCalc.Properties.Resources.resources
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.csproj.GenerateResource.cache
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.GeneratedMSBuildEditorConfig.editorconfig
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.AssemblyInfoInputs.cache
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.AssemblyInfo.cs
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.csproj.CoreCompileInputs.cache
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.dll
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\ref\MMABT MTstore BasicCalc.dll
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.pdb
+M:\Projects\mmabt_mtstore_basiccalc\MMABT MTstore BasicCalc\obj\Debug\net5.0-windows\MMABT MTstore BasicCalc.genruntimeconfig.cache
